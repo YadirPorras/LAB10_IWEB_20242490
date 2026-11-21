@@ -50,6 +50,4 @@ public class EquiposRedDAO extends DaoBase{
         }
     }
 
-
-
 }
